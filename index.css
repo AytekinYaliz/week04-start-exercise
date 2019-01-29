@@ -1,7 +1,14 @@
-#mySpan {
+.mySpan {
    border: solid 1px blue;
    color: white;
    background-color: dodgerblue;
    padding: 5px;
    cursor: pointer;
+}
+
+#myDiv {
+   margin-top: 30px;
+   padding: 5px;
+   border: solid 1px red;
+   /* display: hidden; */
 }
